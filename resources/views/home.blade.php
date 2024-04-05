@@ -30,7 +30,7 @@
     
         <hr>
     
-        <a href="/secondaPagina">Seconda pagina</a>
+        <a href="{{route('seconda')}}">Seconda pagina</a>
     </div>
 
     {{-- bootstrap --}}

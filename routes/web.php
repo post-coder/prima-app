@@ -31,7 +31,7 @@ Route::get('/', function () {
 });
 
 
-Route::get("/secondaPagina", function() {
+Route::get("/pagina-2", function() {
 
     return view("secondaPagina");
 
